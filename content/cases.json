@@ -1,0 +1,508 @@
+[
+ {
+  "id": "c5",
+  "region": "Upper",
+  "answer": "C5 radiculopathy",
+  "options": [
+   "C5 radiculopathy",
+   "Upper trunk plexopathy",
+   "Axillary neuropathy",
+   "Suprascapular neuropathy"
+  ],
+  "stem": "Shoulder weakness after neck pain. Sensory conductions normal.",
+  "ab": [
+   "Deltoid",
+   "Biceps brachii",
+   "Infraspinatus",
+   "Rhomboid major/minor",
+   "Cervical paraspinals"
+  ],
+  "nl": [
+   "Triceps brachii",
+   "Flexor carpi radialis",
+   "Dorsal interossei"
+  ],
+  "why": "Rhomboid and paraspinals are abnormal. The dorsal scapular nerve leaves the C5 root before the upper trunk forms, and paraspinals come off the dorsal ramus, so the lesion is at the root."
+ },
+ {
+  "id": "ut",
+  "region": "Upper",
+  "answer": "Upper trunk plexopathy",
+  "options": [
+   "Upper trunk plexopathy",
+   "C5–6 radiculopathy",
+   "Lateral cord lesion",
+   "Musculocutaneous neuropathy"
+  ],
+  "stem": "Shoulder and elbow-flexion weakness after a fall onto the shoulder. Lateral antebrachial cutaneous SNAP is low.",
+  "ab": [
+   "Deltoid",
+   "Biceps brachii",
+   "Infraspinatus",
+   "Brachioradialis",
+   "Supraspinatus"
+  ],
+  "nl": [
+   "Rhomboid major/minor",
+   "Serratus anterior",
+   "Cervical paraspinals",
+   "Triceps brachii"
+  ],
+  "why": "C5–6 muscles from several nerves are involved, but rhomboid, serratus and paraspinals (all supplied before the trunk) are spared, and a SNAP is abnormal. That places the lesion distal to the roots: upper trunk."
+ },
+ {
+  "id": "c7",
+  "region": "Upper",
+  "answer": "C7 radiculopathy",
+  "options": [
+   "C7 radiculopathy",
+   "Posterior cord lesion",
+   "Radial neuropathy at the spiral groove",
+   "Middle trunk plexopathy"
+  ],
+  "stem": "Neck pain radiating to the middle finger, weak elbow extension. Sensory conductions normal.",
+  "ab": [
+   "Triceps brachii",
+   "Flexor carpi radialis",
+   "Pronator teres",
+   "Cervical paraspinals"
+  ],
+  "nl": [
+   "Deltoid",
+   "Biceps brachii",
+   "Dorsal interossei",
+   "Extensor indicis"
+  ],
+  "why": "Triceps (radial) plus FCR and pronator teres (median) share C7 but come from different nerves, and paraspinals are abnormal. In Levin's surgical series, triceps and FCR were the most reliable C7 muscles."
+ },
+ {
+  "id": "pc",
+  "region": "Upper",
+  "answer": "Posterior cord lesion",
+  "options": [
+   "Posterior cord lesion",
+   "C7 radiculopathy",
+   "Radial neuropathy at the spiral groove",
+   "Axillary neuropathy"
+  ],
+  "stem": "Weak shoulder abduction, elbow extension and wrist extension after a shoulder dislocation. Radial SNAP low.",
+  "ab": [
+   "Deltoid",
+   "Latissimus dorsi",
+   "Triceps brachii",
+   "Brachioradialis",
+   "Extensor digitorum"
+  ],
+  "nl": [
+   "Biceps brachii",
+   "Flexor carpi radialis",
+   "Rhomboid major/minor",
+   "Cervical paraspinals"
+  ],
+  "why": "Axillary (deltoid), thoracodorsal (latissimus) and radial muscles are all involved. Those three nerves meet only at the posterior cord. Biceps and FCR are normal, so this isn't a trunk lesion."
+ },
+ {
+  "id": "rsg",
+  "region": "Upper",
+  "answer": "Radial neuropathy at the spiral groove",
+  "options": [
+   "Radial neuropathy at the spiral groove",
+   "Posterior interosseous neuropathy",
+   "Posterior cord lesion",
+   "C7 radiculopathy"
+  ],
+  "stem": "Woke with a wrist drop after sleeping on the arm. Superficial radial SNAP low.",
+  "ab": [
+   "Brachioradialis",
+   "Extensor carpi radialis longus",
+   "Extensor digitorum",
+   "Extensor indicis"
+  ],
+  "nl": [
+   "Triceps brachii",
+   "Deltoid",
+   "Flexor carpi radialis",
+   "Cervical paraspinals"
+  ],
+  "why": "Brachioradialis is abnormal, so the lesion is above the elbow. Triceps is spared because its branches leave the radial nerve before the spiral groove."
+ },
+ {
+  "id": "pin",
+  "region": "Upper",
+  "answer": "Posterior interosseous neuropathy",
+  "options": [
+   "Posterior interosseous neuropathy",
+   "Radial neuropathy at the spiral groove",
+   "C8 radiculopathy",
+   "Lateral epicondylitis"
+  ],
+  "stem": "Finger drop with preserved wrist extension (wrist deviates radially). Superficial radial SNAP normal.",
+  "ab": [
+   "Extensor digitorum",
+   "Extensor indicis",
+   "Extensor carpi ulnaris",
+   "Extensor pollicis longus"
+  ],
+  "nl": [
+   "Brachioradialis",
+   "Extensor carpi radialis longus",
+   "Triceps brachii"
+  ],
+  "why": "Brachioradialis and ECRL branch off above the PIN, so they're spared and the wrist pulls radially. The normal superficial radial SNAP fits a pure motor branch."
+ },
+ {
+  "id": "c8",
+  "region": "Upper",
+  "answer": "C8 radiculopathy",
+  "options": [
+   "C8 radiculopathy",
+   "Ulnar neuropathy at the elbow",
+   "Lower trunk plexopathy",
+   "Medial cord lesion"
+  ],
+  "stem": "Hand weakness with numbness of the little finger. Ulnar and medial antebrachial SNAPs normal.",
+  "ab": [
+   "Dorsal interossei",
+   "Abductor digiti minimi (hand)",
+   "Extensor indicis",
+   "Flexor pollicis longus",
+   "Cervical paraspinals"
+  ],
+  "nl": [
+   "Triceps brachii",
+   "Flexor carpi radialis",
+   "Deltoid"
+  ],
+  "why": "EIP is a C8 muscle on the radial nerve, so its involvement rules out ulnar neuropathy. Normal SNAPs (the lesion is proximal to the dorsal root ganglion) plus abnormal paraspinals point to the root."
+ },
+ {
+  "id": "ue",
+  "region": "Upper",
+  "answer": "Ulnar neuropathy at the elbow",
+  "options": [
+   "Ulnar neuropathy at the elbow",
+   "C8 radiculopathy",
+   "Ulnar neuropathy at the wrist",
+   "Lower trunk plexopathy"
+  ],
+  "stem": "Numb ring and little fingers, weak grip. Ulnar SNAP low; ulnar motor slowing across the elbow.",
+  "ab": [
+   "Dorsal interossei",
+   "Abductor digiti minimi (hand)",
+   "Flexor digitorum profundus III–IV"
+  ],
+  "nl": [
+   "Extensor indicis",
+   "Abductor pollicis brevis",
+   "Flexor pollicis longus",
+   "Cervical paraspinals"
+  ],
+  "why": "FDP III–IV is involved, so the lesion is above the forearm branches. EIP and APB (C8 on other nerves) are normal, so it isn't the root or the lower trunk. FCU is often spared even in elbow lesions, so don't rely on it."
+ },
+ {
+  "id": "dpb",
+  "region": "Upper",
+  "answer": "Ulnar deep palmar branch lesion",
+  "options": [
+   "Ulnar deep palmar branch lesion",
+   "Ulnar neuropathy at the elbow",
+   "C8 radiculopathy",
+   "Median neuropathy at the wrist"
+  ],
+  "stem": "Painless wasting of the first dorsal interosseous in a cyclist. No sensory symptoms; ulnar SNAP normal.",
+  "ab": [
+   "Dorsal interossei",
+   "Adductor pollicis"
+  ],
+  "nl": [
+   "Abductor digiti minimi (hand)",
+   "Palmaris brevis",
+   "Flexor digitorum profundus III–IV",
+   "Extensor indicis"
+  ],
+  "why": "Only muscles of the deep branch beyond the hypothenar branches are affected. Hypothenar muscles, palmaris brevis (superficial branch) and the sensory SNAP are spared."
+ },
+ {
+  "id": "lt",
+  "region": "Upper",
+  "answer": "Lower trunk plexopathy",
+  "options": [
+   "Lower trunk plexopathy",
+   "C8 radiculopathy",
+   "Ulnar neuropathy at the elbow",
+   "Carpal tunnel syndrome"
+  ],
+  "stem": "Thenar wasting more than hypothenar in a young woman with a cervical rib. Medial antebrachial cutaneous SNAP low, ulnar SNAP low.",
+  "ab": [
+   "Abductor pollicis brevis",
+   "Dorsal interossei",
+   "Abductor digiti minimi (hand)",
+   "Extensor indicis"
+  ],
+  "nl": [
+   "Cervical paraspinals",
+   "Triceps brachii",
+   "Flexor carpi radialis"
+  ],
+  "why": "C8–T1 muscles across median, ulnar and radial nerves are involved, with low SNAPs and normal paraspinals: a lesion distal to the root. The thenar-predominant pattern is the classic neurogenic TOS hand."
+ },
+ {
+  "id": "ain",
+  "region": "Upper",
+  "answer": "Anterior interosseous neuropathy",
+  "options": [
+   "Anterior interosseous neuropathy",
+   "Median neuropathy at the wrist",
+   "C8 radiculopathy",
+   "Pronator syndrome"
+  ],
+  "stem": "Can't make an 'OK' sign. No numbness; median SNAPs normal.",
+  "ab": [
+   "Flexor pollicis longus",
+   "Flexor digitorum profundus I–II",
+   "Pronator quadratus"
+  ],
+  "nl": [
+   "Abductor pollicis brevis",
+   "Pronator teres",
+   "Flexor carpi radialis"
+  ],
+  "why": "Only the AIN's three muscles are involved. APB (median, below the AIN branch) and pronator teres/FCR (above it) are normal, and the AIN has no cutaneous branch."
+ },
+ {
+  "id": "cts",
+  "region": "Upper",
+  "answer": "Median neuropathy at the wrist",
+  "options": [
+   "Median neuropathy at the wrist",
+   "Anterior interosseous neuropathy",
+   "C6 radiculopathy",
+   "Lower trunk plexopathy"
+  ],
+  "stem": "Night-time numbness of the thumb to ring finger. Median sensory latency prolonged.",
+  "ab": [
+   "Abductor pollicis brevis"
+  ],
+  "nl": [
+   "Flexor pollicis longus",
+   "Pronator teres",
+   "Dorsal interossei",
+   "Cervical paraspinals"
+  ],
+  "why": "Only the thenar muscle beyond the carpal tunnel is involved. FPL and pronator teres (median, proximal) and FDI (C8, ulnar) are normal."
+ },
+ {
+  "id": "ss",
+  "region": "Upper",
+  "answer": "Suprascapular neuropathy at the spinoglenoid notch",
+  "options": [
+   "Suprascapular neuropathy at the spinoglenoid notch",
+   "Suprascapular neuropathy at the suprascapular notch",
+   "C5 radiculopathy",
+   "Upper trunk plexopathy"
+  ],
+  "stem": "Volleyball player with painless external-rotation weakness. MRI shows a labral cyst.",
+  "ab": [
+   "Infraspinatus"
+  ],
+  "nl": [
+   "Supraspinatus",
+   "Deltoid",
+   "Biceps brachii",
+   "Cervical paraspinals"
+  ],
+  "why": "Supraspinatus gets its branch before the spinoglenoid notch, so isolated infraspinatus involvement places the lesion there."
+ },
+ {
+  "id": "lthor",
+  "region": "Upper",
+  "answer": "Long thoracic neuropathy",
+  "options": [
+   "Long thoracic neuropathy",
+   "Spinal accessory neuropathy",
+   "C5 radiculopathy",
+   "Dorsal scapular neuropathy"
+  ],
+  "stem": "Medial scapular winging after carrying a heavy backpack.",
+  "ab": [
+   "Serratus anterior"
+  ],
+  "nl": [
+   "Trapezius",
+   "Rhomboid major/minor",
+   "Deltoid",
+   "Cervical paraspinals"
+  ],
+  "why": "Isolated serratus involvement with medial winging. Trapezius (spinal accessory) palsy causes lateral winging; rhomboid involvement would suggest C5 or the dorsal scapular nerve."
+ },
+ {
+  "id": "l5",
+  "region": "Lower",
+  "answer": "L5 radiculopathy",
+  "options": [
+   "L5 radiculopathy",
+   "Common peroneal neuropathy at the fibular head",
+   "Sciatic neuropathy",
+   "Lumbosacral plexopathy"
+  ],
+  "stem": "Foot drop with back pain. Superficial peroneal SNAP normal.",
+  "ab": [
+   "Tibialis anterior",
+   "Fibularis (peroneus) longus",
+   "Tibialis posterior",
+   "Gluteus medius",
+   "Lumbosacral paraspinals"
+  ],
+  "nl": [
+   "Gastrocnemius — medial head",
+   "Vastus lateralis",
+   "Biceps femoris — short head"
+  ],
+  "why": "Tibialis posterior (tibial) and gluteus medius (superior gluteal) share L5 with the peroneal muscles. Their involvement, plus paraspinals and a normal SNAP, places the lesion at the root."
+ },
+ {
+  "id": "pfh",
+  "region": "Lower",
+  "answer": "Common peroneal neuropathy at the fibular head",
+  "options": [
+   "Common peroneal neuropathy at the fibular head",
+   "L5 radiculopathy",
+   "Sciatic neuropathy",
+   "Deep peroneal neuropathy"
+  ],
+  "stem": "Foot drop after weight loss and leg crossing. Superficial peroneal SNAP low; conduction block across the fibular head.",
+  "ab": [
+   "Tibialis anterior",
+   "Fibularis (peroneus) longus",
+   "Extensor digitorum brevis",
+   "Extensor hallucis longus"
+  ],
+  "nl": [
+   "Tibialis posterior",
+   "Biceps femoris — short head",
+   "Gluteus medius",
+   "Lumbosacral paraspinals"
+  ],
+  "why": "Deep and superficial peroneal muscles are involved, but the short head of biceps femoris (peroneal division above the knee) is normal, so the lesion is at or below the fibular head. Normal tibialis posterior rules out L5."
+ },
+ {
+  "id": "sci",
+  "region": "Lower",
+  "answer": "Sciatic neuropathy",
+  "options": [
+   "Sciatic neuropathy",
+   "Common peroneal neuropathy at the fibular head",
+   "L5 radiculopathy",
+   "Lumbosacral plexopathy"
+  ],
+  "stem": "Foot drop after hip arthroplasty. Superficial peroneal and sural SNAPs low.",
+  "ab": [
+   "Tibialis anterior",
+   "Fibularis (peroneus) longus",
+   "Biceps femoris — short head",
+   "Tibialis posterior"
+  ],
+  "nl": [
+   "Gluteus medius",
+   "Gluteus maximus",
+   "Tensor fasciae latae",
+   "Lumbosacral paraspinals"
+  ],
+  "why": "The short head of biceps femoris is abnormal, so the lesion is above the knee. Gluteal muscles and paraspinals are normal, so it's distal to the plexus: the sciatic nerve (peroneal fibres are often hit hardest)."
+ },
+ {
+  "id": "s1",
+  "region": "Lower",
+  "answer": "S1 radiculopathy",
+  "options": [
+   "S1 radiculopathy",
+   "Tibial neuropathy",
+   "Sciatic neuropathy",
+   "L5 radiculopathy"
+  ],
+  "stem": "Posterior calf pain, absent ankle reflex. Sural SNAP normal.",
+  "ab": [
+   "Gastrocnemius — medial head",
+   "Gluteus maximus",
+   "Biceps femoris — long head",
+   "Abductor digiti minimi (pedis)",
+   "Lumbosacral paraspinals"
+  ],
+  "nl": [
+   "Tibialis anterior",
+   "Tibialis posterior",
+   "Vastus lateralis"
+  ],
+  "why": "Gluteus maximus (inferior gluteal) is involved along with tibial-nerve muscles, so the lesion is above the sciatic nerve. Paraspinals plus a normal sural SNAP put it at the S1 root."
+ },
+ {
+  "id": "fem",
+  "region": "Lower",
+  "answer": "Femoral neuropathy below the inguinal ligament",
+  "options": [
+   "Femoral neuropathy below the inguinal ligament",
+   "Femoral neuropathy in the pelvis",
+   "L3–4 radiculopathy",
+   "Lumbar plexopathy"
+  ],
+  "stem": "Knee buckling after a cardiac catheterization via the groin. Saphenous SNAP low.",
+  "ab": [
+   "Vastus lateralis",
+   "Vastus medialis",
+   "Rectus femoris"
+  ],
+  "nl": [
+   "Iliacus",
+   "Adductor longus",
+   "Lumbosacral paraspinals"
+  ],
+  "why": "Iliacus is supplied inside the pelvis, so a normal iliacus places the femoral lesion below the inguinal ligament. Normal adductor longus (obturator) rules out the root and plexus."
+ },
+ {
+  "id": "femp",
+  "region": "Lower",
+  "answer": "Femoral neuropathy in the pelvis",
+  "options": [
+   "Femoral neuropathy in the pelvis",
+   "Femoral neuropathy below the inguinal ligament",
+   "L3–4 radiculopathy",
+   "Obturator neuropathy"
+  ],
+  "stem": "Thigh weakness on anticoagulation; CT shows an iliacus hematoma. Saphenous SNAP low.",
+  "ab": [
+   "Vastus lateralis",
+   "Vastus medialis",
+   "Iliacus"
+  ],
+  "nl": [
+   "Adductor longus",
+   "Lumbosacral paraspinals",
+   "Tibialis anterior"
+  ],
+  "why": "Iliacus involvement puts the lesion above the inguinal ligament. Normal adductor longus and paraspinals keep it on the femoral nerve rather than the root or plexus."
+ },
+ {
+  "id": "l34",
+  "region": "Lower",
+  "answer": "L3–4 radiculopathy",
+  "options": [
+   "L3–4 radiculopathy",
+   "Femoral neuropathy below the inguinal ligament",
+   "Obturator neuropathy",
+   "Diabetic amyotrophy (lumbosacral radiculoplexus)"
+  ],
+  "stem": "Anterior thigh pain and a reduced patellar reflex. Saphenous SNAP normal.",
+  "ab": [
+   "Vastus lateralis",
+   "Adductor longus",
+   "Iliacus",
+   "Lumbosacral paraspinals"
+  ],
+  "nl": [
+   "Tibialis anterior",
+   "Gastrocnemius — medial head",
+   "Gluteus medius"
+  ],
+  "why": "Femoral (vastus lateralis, iliacus) and obturator (adductor longus) muscles share L3–4. Paraspinals plus a normal SNAP put the lesion at the root."
+ }
+]

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Nerve &amp; Needle</title>
+<meta name="description" content="Innervation and needle EMG trainer for PM&amp;R residents. Works offline.">
+<meta name="theme-color" content="#17202b">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Nerve &amp; Needle">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app" id="app">
+  <header>
+    <div class="brand">Nerve &amp; Needle<small>Innervation and needle EMG trainer for PM&amp;R residents · prototype</small></div>
+    <nav aria-label="Modes">
+      <button data-view="inn" aria-current="page">Innervations</button>
+      <button data-view="ndl">Needle placement</button>
+      <button data-view="prog">Progress</button>
+    </nav>
+  </header>
+  <div class="banner" id="updBanner" role="status"><span>A new version with updated content is ready.</span><span class="acts"><button class="btn" id="updNow">Update now</button></span></div>
+  <div class="banner" id="installBanner"><span>Install Nerve &amp; Needle to study offline from your home screen.</span><span class="acts"><button class="btn ghost" id="installLater">Not now</button><button class="btn" id="installNow">Install</button></span></div>
+  <div class="banner" id="iosBanner"><span>To install on iPhone: tap <b>Share</b>, then <b>Add to Home Screen</b>. It then works offline.</span><span class="acts"><button class="btn ghost" id="iosLater">Got it</button></span></div>
+  <main id="main"></main>
+  <footer>Prototype: draft content for faculty review. Roots follow PM&amp;R Recap where it lists the muscle, otherwise the MRC <i>Aids to the Examination of the Peripheral Nervous System</i>, with surgical-EMG data (Levin 1996, Tsao 2003). Where sources disagree, the alternatives are shown and accepted. Needle sites are paraphrased from Perotto, <i>Anatomical Guide for the Electromyographer</i>, 4th ed., with page numbers. Progress is saved on this device only. <span class="ver">Version __VERSION__</span></footer>
+</div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
